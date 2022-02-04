@@ -1,11 +1,22 @@
+
+<p align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/29164867/152538707-81f286bd-f28e-41ed-a2b9-2293f2dfba14.png" alt="Material Bread logo">
+</p>
+
+
 # Hello World
+
+My name is Tito 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Ragnotayn/granantyo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### Markdown!
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
